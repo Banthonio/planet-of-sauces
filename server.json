@@ -2,27 +2,35 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "name": "PIzza Veggie",
+      "description": "Pizza fatiada, vegetariana, coberta de queijo e cheiro verde",
+      "price": "15.90",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "image": "https://source.unsplash.com/HPZs4EXRFSU/405x198"
     },
     {
       "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "name": "Dim Sum",
+      "description": "Dim Sum brancos, recheados de carne bovina e camarão",
+      "price": "16.30",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "image": "https://source.unsplash.com/D-vDQMTfAAU/405x198"
     },
     {
       "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "name": "Salmão",
+      "description": "Salmão estufado al molho blanco e espinafres em cobertura",
+      "price": "10.05",
+      "available": true,
+      "image": "https://source.unsplash.com/8pUjhBm4cLw/405x198"
+    },
+    {
+      "image": "https://source.unsplash.com/eeqbbemH9-c/405x198",
+      "name": "Panquecas",
+      "price": "3",
+      "description": "Panquecas americanas, bananas em rodelas e mel, muito mel",
+      "available": true,
+      "id": 4
     }
   ]
 }
